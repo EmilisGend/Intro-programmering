@@ -3,4 +3,4 @@ Emilis Gendrenas Loggbok
 
 24-08-26
 -----------
-Jag har installerat VS Codium.
+Jag har installerat VS Codium.  
