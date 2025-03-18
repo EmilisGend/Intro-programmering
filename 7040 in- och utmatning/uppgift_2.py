@@ -1,0 +1,6 @@
+namn = str(input("Vad heter du?"))
+print(namn,"är ett fint namn.")
+mat = str(input("Vad gillar du för mat?"))
+print(namn, mat, "är verkligen gott.")
+input("Hur mycket pengar har du?")
+print(namn,"Du är rik.")
